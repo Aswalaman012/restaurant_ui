@@ -1,0 +1,22 @@
+.hero {
+    min-width: 100%;
+    min-height: 100vh;
+    
+    /* */
+    background-size: cover; /* Optional, to ensure the image covers the entire hero section */
+    background-position: center; /* Optional, to center the background image */
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 150px;
+    
+    color:rgb(80, 80, 80)
+}
